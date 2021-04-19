@@ -1,0 +1,1 @@
+species-specific/staphylococcus-aureus/annotation/proteins.faa.clstr filter=lfs diff=lfs merge=lfs -text
